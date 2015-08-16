@@ -1,0 +1,16 @@
+PODS:
+  - HMSegmentedControl (1.5.2)
+  - pop (1.0.7)
+  - XLForm (3.0.1)
+
+DEPENDENCIES:
+  - HMSegmentedControl
+  - pop
+  - XLForm (~> 3.0)
+
+SPEC CHECKSUMS:
+  HMSegmentedControl: 83b9686022d2176fb6457d2bdb61e5d6393fed7d
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  XLForm: 1a20da41c009e4f99e802e886a8eef5f2b086644
+
+COCOAPODS: 0.38.2

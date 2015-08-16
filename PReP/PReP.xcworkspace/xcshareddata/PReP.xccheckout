@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E824E932-F550-450C-A9A0-570FFF839267</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PReP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>904A847B590AF01808B69430EE6ADEDDFD69E8C2</key>
+		<string>https://github.com/Kae7in/PReP_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PReP/PReP.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>904A847B590AF01808B69430EE6ADEDDFD69E8C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kae7in/PReP_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>904A847B590AF01808B69430EE6ADEDDFD69E8C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>904A847B590AF01808B69430EE6ADEDDFD69E8C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PReP_iOS_v3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

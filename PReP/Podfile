@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'PReP' do
+pod 'XLForm', '~> 3.0'
+pod 'HMSegmentedControl'
+pod 'pop'
+end
+
+target 'PRePTests' do
+
+end
